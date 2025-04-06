@@ -1,1 +1,1 @@
-# MATH4230
+# MATH4230 - Optimization Theory
